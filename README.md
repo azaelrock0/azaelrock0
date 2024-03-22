@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola hola 👋
+
+- 🔭 Desarrollador con experiencia trabajando en I.Net Soluciones y Grupo Salinas.
+- 🌱 Aprendiendo inglés y siempre buscando mejorar mis habilidades de programación.
+- 👯 Buscando colaborar con empresas donde pueda desarrollar mi potencial como programador.
+- 📫 Correo de contacto: ing.azael.a@outlook.com
+- 😄 Prononombres: ¿El género importa? Lo que importan son mis habilidades 😜
+- ⚡ Dato curioso: El nickname desde Azaelrock0 lo uso desde que era niño 👦
 
 <!--
 **azaelrock0/azaelrock0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
