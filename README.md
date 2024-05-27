@@ -4,7 +4,7 @@
 - 🌱 Aprendiendo inglés avanzado y siempre buscando mejorar mis habilidades de programación.
 - 👯 Buscando colaborar con empresas donde pueda desarrollar mi potencial como programador.
 - 📫 Correo de contacto: ing.azael.a@outlook.com
-- 😄 Prononombres: ¿El género importa? Lo que importan son mis habilidades 😜
+- 😄 Prononombres: ¿El género importa? Lo que importan son mis habilidades de programación 😜
 
 ## Habilidades:
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=gray)
